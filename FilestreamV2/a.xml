@@ -1,0 +1,25 @@
+<root>
+	<mammal>
+		<pet>
+			<cat>
+				<housecate>Cate</housecate>
+				<dangercate>Tiger</dangercate>
+			</cat>
+			<dog>
+				<housedoggo>Doggo</housedoggo>
+				<dangerdoggo>Wolf</dangerdoggo>
+			</dog>
+		</pet>
+		<reptile/>
+	</mammal>
+	<fishies>
+		<shark>Ocean nope</shark>
+	</fishies>
+</root>
+<root2>
+	<rockses>
+		<crystal/>
+		<mineral/>
+	</rockses>
+</root2>
+
